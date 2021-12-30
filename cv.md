@@ -8,9 +8,9 @@ Email: garadganka@gmail.com
 
 LinkedIn: linkedin.com/in/garadganka1
 
-Date of birth: | 27.04.1994
+Date of birth: 27.04.1994
 
-Nationality:   | Belarus
+Nationality: Belarus
 
 Phone number: +375(33)381-72-78
 
