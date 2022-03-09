@@ -141,7 +141,7 @@ body {
 }
 
 .cv .cv_left .cv_skills ul li .skill_progress {
-  width: 60%;
+  width: 40%;
   margin: 0 5px;
   height: 5px;
   background: #009fd9;
